@@ -1,5 +1,5 @@
-body {
-  background-color: grey;
+wbody {
+  background-image: url(. /img/vellum.jpg);
 }
 
 blockquote {
@@ -7,7 +7,6 @@ blockquote {
 }
 
 img {
-  width: 200px;
   height: auto;
   display: inline-block;
 }
@@ -17,5 +16,5 @@ cite {
 }
 
 .row {
-  background-color: grey;
+  background-color: cream;
 }
