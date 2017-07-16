@@ -1,5 +1,5 @@
-wbody {
-  background-image: url(. /img/vellum.jpg);
+* {
+  background-image: url(./img/vellum.jpg);
 }
 
 blockquote {
@@ -13,8 +13,4 @@ img {
 
 cite {
   color: white;
-}
-
-.row {
-  background-color: cream;
 }
