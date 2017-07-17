@@ -1,12 +1,8 @@
-* {
-  background-image: url('../img/paper.jpg');
+body {
+  background-image: : url(../img/paper.jpg);
 }
 
-img {
+/*img {
   height: auto;
   display: inline-block;
-}
-
-cite {
-  color: white;
-}
+}*/
