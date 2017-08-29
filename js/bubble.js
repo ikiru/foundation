@@ -2,6 +2,10 @@ $(document).ready(function() {
   animateDiv($(".a"));
   animateDiv($(".b"));
   animateDiv($(".c"));
+  animateDiv($(".d"));
+  animateDiv($(".e"));
+  animateDiv($(".f"));
+  animateDiv($(".g"));
 });
 
 function makeNewPosition($container) {
@@ -38,7 +42,7 @@ function calcSpeed(prev, next) {
 
   var greatest = x > y ? x : y;
 
-  var speedModifier = 0.003;
+  var speedModifier = 0.3;
 
   var speed = Math.ceil(greatest / speedModifier);
 
