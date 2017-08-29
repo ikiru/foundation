@@ -1,8 +1,30 @@
-body {
-  background-image: : url(../img/paper.jpg);
+* {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
-/*img {
+body {
+  background-color: navajowhite;
+}
+
+img {
+  display: block;
+}
+
+h1 {
+  width: 800px;
+  margin: 0px auto;
+  display: block;
+}
+
+.face {
+  width: 100%;
   height: auto;
-  display: inline-block;
-}*/
+  display: block;
+}
+
+.wrapper {
+  width: 1080px;
+  margin: auto;
+}
