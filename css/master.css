@@ -2,10 +2,12 @@
   border: 0px;
   margin: 0px;
   padding: 0px;
+
 }
 
 body {
   background-color: navajowhite;
+  font-family: 'Signika', sans-serif;
 }
 
 img {
@@ -20,6 +22,7 @@ h1 {
 
 .face {
   width: 100%;
+  background-image: url("../img/background.png") ;
   height: auto;
   display: block;
   z-index: 0;
